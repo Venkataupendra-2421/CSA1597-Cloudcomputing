@@ -15,3 +15,13 @@ Day:1
 Day:2
 
 6.VM image with host os(windows/linux)
+
+7.VM using a type 2 virtualization software
+
+8.Virtual Hard disk using VM ware
+
+9.Snapshot of VM
+
+10.Cloning of a VM
+
+11.Hardware compatability
