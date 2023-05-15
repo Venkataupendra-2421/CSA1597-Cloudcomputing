@@ -25,3 +25,11 @@ Day:2
 10.Cloning of a VM
 
 11.Hardware compatability
+
+Day:3
+
+12.IaaS by creating a resorce group 
+
+13.Virtual machine using a public cloud service provider
+
+14.Establishing the remote desktop connection
